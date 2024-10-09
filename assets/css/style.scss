@@ -1,0 +1,241 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+// colours defined here :
+// https://github.com/pages-themes/primer/blob/748f4ec7d1c3f96037d5c861395c7a5909353a52/_sass/primer-support/lib/variables/color-system.scss
+// gray, blue, green, yellow, orange, purple, red... -500 is default, -000 is lightest, -900 is darkest
+
+
+footer {
+  border-top: 1px solid $gray-300;
+  border-left: 1px solid $gray-300;
+  border-top-left-radius: 1em;
+  padding: 1em 1em;
+  margin-top: 1em;
+}
+
+button {
+  background-color: $blue-100;
+  padding: 1em 2em;
+  text-align: center;
+  display: block;
+  margin: 1em 10px;
+  border: none;
+  text-decoration: none;
+  box-shadow: 4px 4px 6px $gray-300;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: $blue-300;
+}
+
+img {
+  background-color: $gray-100 !important;
+  border-radius: 2px;
+  padding: 2px;
+  display: block;
+  margin: 0 auto;
+  min-width: 0;
+}
+
+.hamburger, .leftarrow {
+  background-color: $blue-100;
+  line-height: 40px;
+  width: 40px;
+  text-align: center;
+  cursor: pointer;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+}
+
+.hamburger {
+  position: fixed;
+  top: 0;
+  left: 0;
+  border-bottom-right-radius: 1em;
+  opacity: 0.5;
+  z-index: 2;
+}
+
+.leftarrow {
+  float: right;
+}
+
+.hamburger:hover, .leftarrow:hover {
+  background-color: $blue-300;
+  font-weight: bold;
+}
+
+.toggle {
+  display: none;
+  height: 0;
+}
+
+.navigation {
+  position: fixed;
+  top: 0;
+  left: 0;
+  height: 100vh;
+  max-width: 80vw;
+  z-index: 1;
+  background-color: $gray-200;
+  transform: translateX(-200%);
+  transition: transform 0.4s ease-out;
+}
+
+.navigation > h3 {
+  background-color: $gray-600;
+  color: $white;
+  margin: 0 0 0 -1em;
+  line-height: 40px;
+  text-align: center;
+  padding: 0 0.5em;
+  overflow: hidden;
+  white-space: nowrap;
+  text-overflow: ellipsis;
+}
+
+.toggle:checked ~ .navigation {
+  transform: translateX(0);
+}
+
+.toggle:checked ~ .hamburger {
+  transform: translateX(-200%);
+  transition: transform 0.4s ease-out;
+}
+
+.toggle:not(checked) ~ .hamburger {
+  transform: translateX(0);
+  transition: transform 0.4s ease-in;
+}
+
+.nav-items {
+  height: calc(100vh - 40px);
+  padding-left: 0.5em;
+  display: flex;
+  flex-flow: column wrap;
+  justify-content: flex-start;
+  align-items: flex-start;
+  align-content: flex-start;
+}
+
+.nav-items > p {
+  padding: 1vh 1vw 1vh 0vw;
+  margin: 1vh 1vw;
+  overflow: hidden;
+  white-space: nowrap;
+  text-overflow: ellipsis;
+}
+
+.nav-items > #nav-subitem {
+  margin: 0 2vw;
+  font-style: italic;
+}
+
+.nav-items > p > a {
+  text-decoration: none;
+  color: $gray-900;
+}
+
+.nav-items > p:hover {
+  background-image: linear-gradient(to bottom, $gray-200 90%, $gray-900 100%);
+}
+
+.tile-box {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  --margin: 1em;
+}
+
+.tile-box > button {
+  align-self: flex-start;
+  margin: var(--margin) auto;
+}
+
+.tile-box > div {
+  background-color: $orange-100;
+  margin: var(--margin) calc(var(--margin) / 2);
+  padding: 1em;
+  flex: 1;
+  min-width: 0;
+}
+
+.tile-box > div + h2, h3, h4, p {
+  padding-top: 0;
+}
+
+.code-compare {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+.code-compare > div {
+  background-color: $white;
+  margin: 0 0.5em;
+  padding: 0 1em;
+  flex: 1;
+  min-width: 0;
+}
+
+.code-compare > div + h2, h3, h4, p {
+  padding-top: 0;
+}
+
+.footnote {
+  background-color: $blue-100;
+  border: $orange-500 1px dashed;
+  border-radius: 0.5em 0;
+  color: $gray-900;
+  text-decoration: none;
+  padding: 0 0.5em
+}
+
+.footnote:hover {
+  border-style: solid;
+  text-decoration: none;
+}
+
+.footnotes {
+  border: $orange-300 1px dashed;
+  border-radius: 1em 0;
+  margin: 1em 0;
+  background-color: rgba($blue-100, 0.5);
+}
+
+.footnotes > * {
+  font-style: italic;
+}
+
+@media (min-width: 800px) {
+  .tile-box > div {
+    flex-basis: calc(33% - 1.33 * var(--margin) - 1);
+  }
+}
+
+@media (min-width: 600px) {
+  .tile-box {
+    flex-flow: row wrap;
+    align-items: flex-start;
+  }
+
+  .tile-box > div {
+    flex-basis: calc(50% - 1.5 * var(--margin) - 1);
+  }
+
+  .code-compare {
+    flex-flow: row wrap;
+  }
+}
+
+@media (orientation: landscape) and (max-width: 599px) {
+  .nav-items > p {
+    max-width: 30vw;
+  }
+}
