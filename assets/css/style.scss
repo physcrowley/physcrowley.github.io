@@ -66,9 +66,19 @@ img {
   float: right;
 }
 
-.hamburger:hover, .leftarrow:hover {
-  background-color: $blue-300;
+.hamburger:hover {
   font-weight: bold;
+  color: $orange-600;
+  border-right: 2px solid $orange-500;
+  border-bottom: 2px solid $orange-500;
+}
+
+.leftarrow:hover {
+  font-weight: bold;
+  color: $orange-600;
+  border-top-right-radius: 1em;
+  border-right: 2px solid $orange-500;
+  border-top: 2px solid $orange-500;
 }
 
 .toggle {
