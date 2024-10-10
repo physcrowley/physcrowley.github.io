@@ -67,23 +67,20 @@ img {
 }
 
 .hamburger:hover {
-  font-weight: bold;
   color: $orange-600;
-  border-right: 2px solid $orange-500;
-  border-bottom: 2px solid $orange-500;
+  border-right: 1px solid $orange-300;
+  border-bottom: 1px solid $orange-300;
 }
 
 .leftarrow:hover {
-  font-weight: bold;
   color: $orange-600;
   border-top-right-radius: 1em;
-  border-right: 2px solid $orange-500;
-  border-top: 2px solid $orange-500;
+  border-right: 1px solid $orange-300;
+  border-top: 1px solid $orange-300;
 }
 
-.toggle {
-  display: none;
-  height: 0;
+.navigation:has(.leftarrow:hover) {
+  border-top-right-radius: 1em;
 }
 
 .navigation {
@@ -108,6 +105,11 @@ img {
   overflow: hidden;
   white-space: nowrap;
   text-overflow: ellipsis;
+}
+
+.toggle {
+  display: none;
+  height: 0;
 }
 
 .toggle:checked ~ .navigation {
