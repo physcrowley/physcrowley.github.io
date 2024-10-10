@@ -143,7 +143,9 @@ img {
 }
 
 .nav-items > p:hover {
-  background-image: linear-gradient(45deg, $blue-100 90%, $blue-300);
+  background-image: linear-gradient(to bottom, $blue-100 95%, $orange-500);
+  background-color: $blue-100; // fallback for IE
+  border-radius: 0 1em 1em 0;
 }
 
 .tile-box {
