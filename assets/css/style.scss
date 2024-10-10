@@ -66,21 +66,11 @@ img {
   float: right;
 }
 
-.hamburger:hover {
-  opacity: 1;
-  color: $orange-600;
-  box-shadow: 1px 1px 8px 1px $orange-500;
+.hamburger:hover, .leftarrow:hover {
+  font-style: bold;
+  background-color: $blue-300;
 }
 
-.leftarrow:hover {
-  color: $orange-600;
-  background-image: linear-gradient(to bottom, $blue-100 95%, $orange-500);
-  border-top-right-radius: 1em;
-}
-
-.navigation:has(.leftarrow:hover) {
-  border-top-right-radius: 1em;
-}
 
 .navigation {
   position: fixed;
