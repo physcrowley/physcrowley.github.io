@@ -69,8 +69,7 @@ img {
 .hamburger:hover {
   opacity: 1;
   color: $orange-600;
-  border-right: 1px solid $orange-500;
-  border-bottom: 1px solid $orange-500;
+  box-shadow: 2px 2px 4px 2px $orange-500;
 }
 
 .leftarrow:hover {
