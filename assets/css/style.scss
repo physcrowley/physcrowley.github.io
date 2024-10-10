@@ -67,14 +67,20 @@ img {
 }
 
 .hamburger:hover {
+  opacity: 1;
   color: $orange-600;
-  border-right: 1px solid $orange-300;
-  border-bottom: 1px solid $orange-300;
+  border-right: 1px solid $orange-500;
+  border-bottom: 1px solid $orange-500;
 }
 
 .leftarrow:hover {
   color: $orange-600;
-  border: 1px solid $orange-300;
+  background-image: linear-gradient(to bottom, $blue-100 95%, $orange-500);
+  border-top-right-radius: 1em;
+}
+
+.navigation:has(.leftarrow:hover) {
+  border-top-right-radius: 1em;
 }
 
 .navigation {
