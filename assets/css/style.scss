@@ -29,7 +29,10 @@ button {
 }
 
 button:hover {
-  background-color: $blue-300;
+  border-top-right-radius: 1em;
+  border-top: 2px solid $orange-500;
+  border-right: 2px solid $orange-500;
+  color: $orange-600;
 }
 
 img {
