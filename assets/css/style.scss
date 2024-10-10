@@ -244,6 +244,11 @@ img {
 
   .code-compare {
     flex-flow: row wrap;
+    align-content: center;
+  }
+
+  .code-compare > div:has(img:only-child) {
+    align-content: center;
   }
 }
 
