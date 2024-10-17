@@ -6,7 +6,7 @@
 
 </div>
 
-<div markdown="1">
+<div markdown="1" style="align-self: center;">
 
 Ce site héberge des ressources pour les sous-domaines suivants, comme les favicones et le CSS commun.
 
