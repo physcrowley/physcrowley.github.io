@@ -30,9 +30,9 @@ Ce site héberge des ressources pour les sous-domaines suivants, comme les favic
 
 ## Génie informatique
 
-<button onclick="window.location.href='./ICS3C'"> ICS3U - Introduction au génie informatique (11e année) </button>
+<button onclick="window.location.href='./ICS3U'"> ICS3U - Introduction au génie informatique (11e année) </button>
 
-<button onclick="window.location.href='./ICS4C'"> ICS4U - Programmation (12e année) </button>
+<button onclick="window.location.href='./ICS4U'"> ICS4U - Programmation (12e année) </button>
 
 </div>
 
