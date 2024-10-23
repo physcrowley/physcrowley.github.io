@@ -50,8 +50,8 @@ details {
 
 summary {
   font-weight: bold;
-  font-size: 1.2em;
   background-color: $blue-100;
+  border-radius: inherit;
   cursor: pointer;
   padding: 0.5em;
   margin: -0.5em -0.5em 0;
@@ -68,6 +68,8 @@ details[open] {
 details[open] > summary {
   margin-bottom: 0.5em;
   border-bottom: 1px solid $gray-300;
+  border-bottom-left-radius: 0;
+  border-bottom-right-radius: 0;
 }
 
 details > summary > div {
