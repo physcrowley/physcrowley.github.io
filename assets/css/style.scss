@@ -70,6 +70,10 @@ details[open] > summary {
   border-bottom: 1px solid $gray-300;
 }
 
+details > summary > div {
+  margin: -1.5em 0 0 1em;
+}
+
 .hamburger, .leftarrow {
   background-color: $blue-100;
   line-height: 40px;
