@@ -42,16 +42,17 @@ img {
 }
 
 details {
+  --radius: 0.5em;
   background-color: $white;
   border: 1px solid $gray-300;
-  border-radius: 0.5em;
+  border-radius: var(--radius);
   padding: 0.5em 0.5em 0;
 }
 
 summary {
   font-weight: bold;
   background-color: $blue-100;
-  border-radius: inherit;
+  border-radius: var(--radius);
   cursor: pointer;
   padding: 0.5em;
   margin: -0.5em -0.5em 0;
@@ -59,7 +60,6 @@ summary {
 
 summary:hover {
   background-color: $blue-300;
-  border-radius: inherit;
 }
 
 details[open] {
@@ -73,9 +73,8 @@ details[open] > summary {
   border-bottom-right-radius: 0;
 }
 
-details > summary > div {
-  margin: -1.5em 0 0 1em;
-  padding: 0;
+details > summary > div, p {
+  display: inline;
 }
 
 .hamburger, .leftarrow {
