@@ -192,6 +192,11 @@ details > summary > div, p {
   --margin: 1em;
 }
 
+.tile-box > .tile-box {
+  border: 1px solid $gray-200;
+  box-shadow: 2px 2px 3px $gray-300;
+}
+
 .tile-box > button {
   align-self: flex-start;
   margin: var(--margin) auto;
