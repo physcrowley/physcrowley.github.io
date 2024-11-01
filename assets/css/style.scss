@@ -189,12 +189,14 @@ details > summary > div, p {
   display: flex;
   flex-direction: column;
   justify-content: space-between;
+  background-color: inherit;
   --margin: 1em;
 }
 
 .tile-box > .tile-box {
   border: 1px solid $gray-200;
   box-shadow: 2px 2px 3px $gray-300;
+  background-color: inherit;
 }
 
 .tile-box > button {
