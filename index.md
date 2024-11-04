@@ -36,4 +36,12 @@ Ce site héberge des ressources pour les sous-domaines suivants, comme les favic
 
 </div>
 
+<div markdown="1">
+
+## Robotique
+
+<button onclick="window.location.href='./Robotique'"> TER3M4M - Cours de 11e et de 12e années en robotique </button>
+
+</div>
+
 </div>
