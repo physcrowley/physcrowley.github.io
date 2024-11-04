@@ -20,9 +20,9 @@ Ce site héberge des ressources pour les sous-domaines suivants, comme les favic
 
 ## Programmation
 
-<button onclick="window.location.href='./ICS3C'"> ICS3C - Introduction à la programmation<br>(11e année)</button>
+<button onclick="window.location.href='./ICS3C'"> /ICS3C - Introduction à la programmation<br>(11e année)</button>
 
-<button onclick="window.location.href='./ICS4C'"> ICS4C - Programmation<br>(12e année) </button>
+<button onclick="window.location.href='./ICS4C'"> /ICS4C - Programmation<br>(12e année) </button>
 
 </div>
 
@@ -30,9 +30,9 @@ Ce site héberge des ressources pour les sous-domaines suivants, comme les favic
 
 ## Génie informatique
 
-<button onclick="window.location.href='./ICS3U'"> ICS3U - Introduction au génie informatique<br>(11e année) </button>
+<button onclick="window.location.href='./ICS3U'"> /ICS3U - Introduction au génie informatique<br>(11e année) </button>
 
-<button onclick="window.location.href='./ICS4U'"> ICS4U - Génie informatique<br>(12e année) </button>
+<button onclick="window.location.href='./ICS4U'"> /ICS4U - Génie informatique<br>(12e année) </button>
 
 </div>
 
@@ -40,7 +40,7 @@ Ce site héberge des ressources pour les sous-domaines suivants, comme les favic
 
 ## Robotique
 
-<button onclick="window.location.href='./Robotique'"> TER3M4M - Cours de 11e et de 12e années en robotique </button>
+<button onclick="window.location.href='./Robotique'"> /Robotique - Cours de 11e et de 12e années en robotique </button>
 
 </div>
 
