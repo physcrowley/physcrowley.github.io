@@ -14,7 +14,7 @@ Ce site héberge des ressources pour les sous-domaines suivants, comme les favic
 
 </div>
 
-<div class="tile-box">
+<div class="tile-box" style="flex-direction: row">
 
 <div markdown="1">
 
