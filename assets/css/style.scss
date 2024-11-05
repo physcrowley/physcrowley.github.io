@@ -77,6 +77,15 @@ details > summary > div, p {
   display: inline;
 }
 
+iframe {
+  aspect-ratio:16/10; 
+  width:80%; 
+  min-width:300px; 
+  max-width:516px; 
+  display:block; 
+  margin:auto;
+}
+
 .hamburger, .leftarrow {
   background-color: $blue-100;
   line-height: 40px;
