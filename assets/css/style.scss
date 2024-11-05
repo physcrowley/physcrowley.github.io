@@ -7,15 +7,6 @@
 // https://github.com/pages-themes/primer/blob/748f4ec7d1c3f96037d5c861395c7a5909353a52/_sass/primer-support/lib/variables/color-system.scss
 // gray, blue, green, yellow, orange, purple, red... -500 is default, -000 is lightest, -900 is darkest
 
-
-footer {
-  border-top: 1px solid $gray-300;
-  border-left: 1px solid $gray-300;
-  border-top-left-radius: 1em;
-  padding: 1em 1em;
-  margin-top: 1em;
-}
-
 button {
   background-color: $blue-100;
   padding: 1em 2em;
@@ -32,34 +23,12 @@ button:hover {
   background-color: $blue-300;
 }
 
-img {
-  background-color: $gray-100 !important;
-  border-radius: 2px;
-  padding: 2px;
-  display: block;
-  margin: 0 auto;
-  min-width: 0;
-}
-
 details {
   --radius: 0.5em;
   background-color: $white;
   border: 1px solid $gray-300;
   border-radius: var(--radius);
   padding: 0.5em 0.5em 0;
-}
-
-summary {
-  font-weight: bold;
-  background-color: $blue-100;
-  border-radius: var(--radius);
-  cursor: pointer;
-  padding: 0.5em;
-  margin: -0.5em -0.5em 0;
-}
-
-summary:hover {
-  background-color: $blue-300;
 }
 
 details[open] {
@@ -77,6 +46,14 @@ details > summary > div, p {
   display: inline;
 }
 
+footer {
+  border-top: 1px solid $gray-300;
+  border-left: 1px solid $gray-300;
+  border-top-left-radius: 1em;
+  padding: 1em 1em;
+  margin-top: 1em;
+}
+
 iframe {
   aspect-ratio:16/10; 
   width:80%; 
@@ -84,6 +61,28 @@ iframe {
   max-width:516px; 
   display:block; 
   margin:auto;
+}
+
+img {
+  background-color: $gray-100 !important;
+  border-radius: 2px;
+  padding: 2px;
+  display: block;
+  margin: 0 auto;
+  min-width: 0;
+}
+
+summary {
+  font-weight: bold;
+  background-color: $blue-100;
+  border-radius: var(--radius);
+  cursor: pointer;
+  padding: 0.5em;
+  margin: -0.5em -0.5em 0;
+}
+
+summary:hover {
+  background-color: $blue-300;
 }
 
 .hamburger, .leftarrow {
