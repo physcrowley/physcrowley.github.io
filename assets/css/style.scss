@@ -63,6 +63,10 @@ iframe {
   margin:auto;
 }
 
+iframe[src*="trinket"] {
+  max-width: max-content;
+}
+
 img {
   background-color: $gray-100 !important;
   border-radius: 2px;
