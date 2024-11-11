@@ -42,7 +42,7 @@ details[open] > summary {
   border-bottom-right-radius: 0;
 }
 
-details > summary > div, p {
+details > summary > :is(div, p) {
   display: inline;
 }
 
@@ -224,7 +224,7 @@ summary:hover {
   min-width: 0;
 }
 
-.tile-box > div + h2, h3, h4, p {
+.tile-box > div > :is(h2, h3, h4, p):first-child {
   padding-top: 0;
 }
 
@@ -242,7 +242,7 @@ summary:hover {
   min-width: 0;
 }
 
-.code-compare > div + h2, h3, h4, p {
+.code-compare > div > :is(h2, h3, h4, p):first-child {
   padding-top: 0;
 }
 
