@@ -7,7 +7,16 @@
 // https://github.com/pages-themes/primer/blob/748f4ec7d1c3f96037d5c861395c7a5909353a52/_sass/primer-support/lib/variables/color-system.scss
 // gray, blue, green, yellow, orange, purple, red... -500 is default, -000 is lightest, -900 is darkest
 
-button {
+
+footer {
+  border-top: 1px solid $gray-300;
+  border-left: 1px solid $gray-300;
+  border-top-left-radius: 1em;
+  padding: 1em 1em;
+  margin-top: 1em;
+}
+
+.markdown-body button {
   background-color: $blue-100;
   padding: 1em 2em;
   text-align: center;
@@ -19,11 +28,11 @@ button {
   cursor: pointer;
 }
 
-button:hover {
+.markdown-body button:hover {
   background-color: $blue-300;
 }
 
-details {
+.markdown-body details {
   --radius: 0.5em;
   background-color: $white;
   border: 1px solid $gray-300;
@@ -31,30 +40,22 @@ details {
   padding: 0.5em 0.5em 0;
 }
 
-details[open] {
+.markdown-body details[open] {
   padding: 0.5em;
 }
 
-details[open] > summary {
+.markdown-body details[open] > summary {
   margin-bottom: 0.5em;
   border-bottom: 1px solid $gray-300;
   border-bottom-left-radius: 0;
   border-bottom-right-radius: 0;
 }
 
-details > summary > :is(div, p) {
+.markdown-body details > summary > :is(div, p) {
   display: inline;
 }
 
-footer {
-  border-top: 1px solid $gray-300;
-  border-left: 1px solid $gray-300;
-  border-top-left-radius: 1em;
-  padding: 1em 1em;
-  margin-top: 1em;
-}
-
-iframe {
+.markdown-body iframe {
   aspect-ratio:16/10; 
   width:80%; 
   min-width:300px; 
@@ -63,21 +64,21 @@ iframe {
   margin:auto;
 }
 
-iframe[src*="trinket"] {
+.markdown-body iframe[src*="trinket"] {
   max-width: max-content;
 }
 
-img {
+.markdown-body img {
   background-color: $gray-100 !important;
   border-radius: var(--radius);
   padding: 0.5em;
   display: block;
   margin: 0 auto;
-  max-width: fit-content(100% - 2em);
+  max-width: fit-content(100% - 1em);
   min-width: 0;
 }
 
-summary {
+.markdown-body summary {
   font-weight: bold;
   background-color: $blue-100;
   border-radius: var(--radius);
@@ -86,7 +87,7 @@ summary {
   margin: -0.5em -0.5em 0;
 }
 
-summary:hover {
+.markdown-body summary:hover {
   background-color: $blue-300;
 }
 
