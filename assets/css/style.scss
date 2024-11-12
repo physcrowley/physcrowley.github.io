@@ -213,6 +213,10 @@ footer {
   background-color: inherit;
 }
 
+.tile-box > .tile-box > :is(h1, h2, h3, h4):first-child {
+  margin-top: 0;
+}
+
 .tile-box > button {
   align-self: flex-start;
   margin: var(--margin) auto;
