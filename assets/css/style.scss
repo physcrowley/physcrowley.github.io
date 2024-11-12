@@ -69,10 +69,11 @@ iframe[src*="trinket"] {
 
 img {
   background-color: $gray-100 !important;
-  border-radius: 0.5em;
+  border-radius: var(--radius);
   padding: 0.5em;
   display: block;
   margin: 0 auto;
+  max-width: fit-content(100% - 1em);
   min-width: 0;
 }
 
