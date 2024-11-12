@@ -217,6 +217,10 @@ footer {
   margin-top: 0;
 }
 
+.tile-box > img {
+  align-self: center;
+}
+
 .tile-box > button {
   align-self: flex-start;
   margin: var(--margin) auto;
