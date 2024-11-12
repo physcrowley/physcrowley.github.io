@@ -213,12 +213,8 @@ footer {
   background-color: inherit;
 }
 
-.tile-box > .tile-box > :is(h1, h2, h3, h4):first-child {
+.tile-box > .tile-box > :first-child:is(h1, h2, h3, h4) {
   margin-top: 0;
-}
-
-.tile-box > img {
-  align-self: center;
 }
 
 .tile-box > button {
@@ -234,7 +230,7 @@ footer {
   min-width: 0;
 }
 
-.tile-box > div > :is(h2, h3, h4, p):first-child {
+.tile-box > div > :first-child:is(h2, h3, h4, p) {
   margin-top: 0;
 }
 
@@ -252,7 +248,7 @@ footer {
   min-width: 0;
 }
 
-.code-compare > div > :is(h2, h3, h4, p):first-child {
+.code-compare > div > :first-child:is(h2, h3, h4, p) {
   margin-top: 0;
 }
 
