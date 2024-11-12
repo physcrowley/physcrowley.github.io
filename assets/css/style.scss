@@ -65,16 +65,16 @@ footer {
 }
 
 .markdown-body iframe[src*="trinket"] {
-  max-width: max-content;
+  max-width: 100%;
 }
 
 .markdown-body img {
-  background-color: $gray-100 !important;
-  border-radius: var(--radius);
+  background-color: $gray-100;
+  border-radius: 0.5em;
   padding: 0.5em;
   display: block;
   margin: 0 auto;
-  max-width: fit-content(calc(100% - 1em));
+  max-width: calc(100% - 1em);
   min-width: 0;
 }
 
