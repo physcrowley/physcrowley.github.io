@@ -64,7 +64,8 @@ footer {
   margin:auto;
 }
 
-.markdown-body iframe[src*="trinket"] {
+.markdown-body iframe[src*="trinket"],
+.markdown-body iframe.interactive-code {
   max-width: 100%;
 }
 
