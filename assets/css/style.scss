@@ -55,6 +55,10 @@ footer {
   display: inline;
 }
 
+.markdown-body details:has(+:not(details)) {
+  margin-bottom  : 1em;
+}
+
 .markdown-body iframe {
   aspect-ratio:16/10; 
   width:80%; 
