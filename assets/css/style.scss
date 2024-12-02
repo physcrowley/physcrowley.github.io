@@ -257,6 +257,10 @@ footer {
   margin-top: 0;
 }
 
+.code-compare:last-child {
+  margin-bottom: var(--margin)
+}
+
 .footnote {
   background-color: $blue-100;
   border: $orange-500 1px dashed;
