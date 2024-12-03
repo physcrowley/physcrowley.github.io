@@ -254,8 +254,12 @@ footer {
   min-width: 0;
 }
 
-.code-compare > div > :first-child:is(h2, h3, h4, p) {
+.code-compare > div > :first-child:is(h2, h3, h4) {
   margin-top: 0;
+}
+
+.code-compare > div > :first-child:is(p) {
+  margin-top: var(--margin);
 }
 
 .footnote {
@@ -354,7 +358,7 @@ footer {
     align-content: center;
   }
 
-  .code-compare > div:has(img:only-child) {
+  .code-compare > div:has(:only-child) {
     align-content: center;
   }
 }
