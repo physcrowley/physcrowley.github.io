@@ -45,3 +45,15 @@ Ce site héberge des ressources pour les sous-domaines suivants, comme les favic
 </div>
 
 </div>
+
+<footer>
+  <p>
+    <a href="./pages/bbc/landing"><img src="./assets/img/shotokan-tiger-16px-orange.png"></a>
+    2022-2025 David Crowley |
+    <a
+      href="{{ page.url | absolute_url | prepend: 'https://docs.google.com/forms/d/e/1FAIpQLScvxlefmHv2BrsBkX8TWOKPPSqJpxTISNCC5OeiQBnsaB-1VQ/viewform?usp=pp_url&entry.1499387985=' }}"
+      target="_blank"
+      >Formulaire de rétroaction (commentaires, suggestions, problèmes)</a
+    >
+  </p>
+</footer>
