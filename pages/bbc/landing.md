@@ -6,12 +6,17 @@
 
    .bbc-menu {
       float: left;
-      width: 25%;
+      width: 20%;
       position: sticky;
       top: calc(2em + 40px);
       background-color: $blue-100;
       margin-right: 1em;
       margin-bottom: 1em
+   }
+
+   .bbc-content {
+      float: left;
+      width: 70%;
    }
 
    div:has(.bbc-menu):after {
