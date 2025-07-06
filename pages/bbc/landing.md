@@ -4,8 +4,11 @@
       top: 0;
    }
 
+   .tile-box > div {
+      background-color: $white;
+   }
+
    .bbc-menu {
-      float: left;
       width: 20%;
       position: sticky;
       top: calc(2em + 40px);
@@ -15,12 +18,7 @@
    }
 
    .bbc-content {
-      float: left;
       width: 70%;
-   }
-
-   div:has(.bbc-menu):after {
-      clear: both;
    }
 
    .bbc-menu > ol {
@@ -35,13 +33,29 @@
 
 </div>
 
+<div class="code-compare">
+
+<div markdown="1">
+
+![Shotokan](../../assets/img/shotokan-tiger-orange.png)
+
+</div>
+
+<div markdown="1" style="align-self: center;">
+
 For:
 : Hanshi John Leroux, _Ottawa School of Karate-do_
 
 On:
 : July 11th, 2025
 
-<div>
+</div>
+
+</div>
+
+
+
+<div class="tile-box">
 
 <div class="bbc-menu" markdown=1>
 
