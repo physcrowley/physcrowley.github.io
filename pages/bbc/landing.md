@@ -13,25 +13,25 @@
       margin-bottom: 1em;
    }
 
-   #menu {
-      background-color: #dbedff;
-   }
-
    .bbc-content {
       width: 70%;
-   }
-
-   #content {
-      background-color: #fff;
    }
 
    .bbc-menu > ol {
       list-style-type: none;
    }
 
+   #menu {
+      background-color: #dbedff;
+   }
+
+   #title, #content {
+      background-color: #fff;
+   }
+
 </style>
 
-<div class="page-title" markdown='1'>
+<div id="title" class="page-title" markdown='1'>
 
 # Black Belt Club Project
 
