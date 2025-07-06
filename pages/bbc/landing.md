@@ -4,21 +4,24 @@
       top: 0;
    }
 
-   .tile-box > div {
-      background-color: $white;
-   }
-
    .bbc-menu {
       width: 20%;
       position: sticky;
       top: calc(2em + 40px);
-      background-color: $blue-100;
       margin-right: 1em;
-      margin-bottom: 1em
+      margin-bottom: 1em;
+   }
+
+   #menu {
+      background-color: #dbedff;
    }
 
    .bbc-content {
       width: 70%;
+   }
+
+   #content {
+      background-color: #fff;
    }
 
    .bbc-menu > ol {
@@ -57,7 +60,7 @@ On:
 
 <div class="tile-box">
 
-<div class="bbc-menu" markdown=1>
+<div id="menu" class="bbc-menu" markdown=1>
 
 #### Quick Access
 
@@ -75,7 +78,7 @@ On:
 
 </div>
 
-<div class="bbc-content" markdown=1>
+<div id="content" class="bbc-content" markdown=1>
 
 ## Contents here
 
