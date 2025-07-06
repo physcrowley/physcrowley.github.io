@@ -46,15 +46,15 @@ Ce site héberge des ressources pour les sous-domaines suivants, comme les favic
 
 </div>
 
-<footer style="font-size:smaller">
-  <p>
+<footer>
+  <div style=>
     <a href="./pages/bbc/landing">
       <img 
         src="./assets/img/shotokan-tiger-16px-orange.png" 
         alt="" 
-        style="display:inline"
+        style="display:inline;padding:0;margin-right:2px"
       >
     </a>
-    2022-2025 David Crowley 
-  </p>
+    2022-2025 David Crowley
+  </div>
 </footer>
