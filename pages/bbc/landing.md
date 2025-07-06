@@ -4,33 +4,22 @@
       top: 0;
    }
 
-   .tile-box {
-      flex-wrap: nowrap;
-   }
-
    .bbc-menu {
-      flex-basis: 100px;
-      flex-grow: 1;
+      float: left;
+      width: 25%;
       position: sticky;
       top: calc(2em + 40px);
+      background-color: $blue-100;
+      margin-right: 1em;
+      margin-bottom: 1em
    }
 
-   .bbc-content {
-      flex-grow: 3;
-      background-color: none;
+   div:has(.bbc-menu):after {
+      clear: both;
    }
 
-   .bbc-menu ul {
+   .bbc-menu > ol {
       list-style-type: none;
-      margin: 0;
-      padding: 0;
-   }
-
-   .bbc-menu li {
-      margin-bottom: 4px;
-      display: inline-block;
-      padding: 8px;
-      text-decoration: none;
    }
 
 </style>
@@ -47,7 +36,7 @@ For:
 On:
 : July 11th, 2025
 
-<div class="tile-box">
+<div>
 
 <div class="bbc-menu" markdown=1>
 
