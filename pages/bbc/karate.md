@@ -4,31 +4,15 @@
 
 # Black Belt Club Project
 
-</div>
-
-<div class="code-compare">
-
-<div markdown="1">
-
-![Shotokan](../../assets/img/shotokan-tiger-orange.png)
+_David Crowley || Ottawa School of Karaté-do, Hanshi John Leroux_
 
 </div>
 
-<div markdown="1" style="align-self: center;">
+<div class="tile-box">
 
-For:
-: Hanshi John Leroux, _Ottawa School of Karate-do_
+<div id="menu" class="bbc-menu" markdown=1>
 
-On:
-: July 11th, 2025
-
-</div>
-
-</div>
-
-<div class="bbc-content" markdown=1>
-
-#### Contents
+#### Quick Access
 
 1. [Values](values.md)
    1. Context
@@ -41,5 +25,16 @@ On:
    1. 3-month
    2. 1 year
    3. Black Belt testing
+
+</div>
+
+<div id="content" class="bbc-content" markdown=1>
+
+## Karate
+
+...
+
+
+</div>
 
 </div>
