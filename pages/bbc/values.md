@@ -32,8 +32,171 @@ _David Crowley_ \| _Hanshi John Leroux, Ottawa School of Karate-do_
 
 ## Values
 
-...
+This section presents my personal values and how that manifests as a vision, purpose, code of behaviour and list of goals.
 
+The **context** section presents a bit of history behind these values, since this is not the first time I've been through this process of self-reflection.
+
+<details><summary>Context</summary>
+
+<div markdown='1'>
+
+### Student Leadership
+
+Running for Student President of McGill's Macdonald Campus
+
+...committed to our success
+
+</div>
+
+<div markdown='1'>
+
+### Coaching soccer
+
+Reviving the Jeannois du Collège d'Alma men's soccer team
+
+...excellence
+
+</div>
+
+</details>
+
+
+<details><summary>Vision, Purpose, Code of conduct</summary>
+
+### Vision
+
+> Approachable by all in good times and in times of need. A reliable husband, parent and teacher whose word is a guarantee. An inspiring model of continuous improvement.
+
+### Purpose
+
+> My purpose is to build confidence in others and inspire them to pursue their dreams. Part of that journey, for all of us, involves
+> growing beyond fear to be more caring and gentle. Ultimately, I dream of a world where all of us are connected by common values and experiences, 
+> not divided by ideological or cultural differences.
+
+### Identity
+
+> I am a bilingual Canadian father with Irish heritage and a love of rhythms from all around the world.
+> I am curious, intelligent, enthusiastic, youthful and athletic.
+> I believe in "one tribe" - a shared humanity - in mutual respect and care and in a mentality of improve or perish.
+
+### Personal Code of Conduct
+
+<blockquote markdown=1>
+
+I may not always commit to all tasks or challenges put before me, but any that I do accept, I engage with to the best of my abilities: 
+- setting aside time, thought and energy; 
+- checking to see if my progress is to the "client's" satisfaction;
+- correcting mistakes and making up for failings;
+- seeing the work through to the end
+
+I call this process "excellence". For me, excellence is not a state nor an achievement but a process of continually getting better for yourself and for the people you work with and work for. I originally defined excellence in this way in 2008 for a soccer team I coached. The original can be found in the [context section](#coaching-soccer) above. Since I've begun my karate journey, I immediately recognised **kaizen** as a very similar, if not identical, concept.
+
+</blockquote>
+
+### Foundational drivers
+
+#### Rules and Values
+
+For Safety and Success:
+
+- admit mistakes and make it right
+- protect mobility as the top physical priority
+- be gracious and give chances
+- engage others based on their interests and abilities
+- reward and encourage efforts to attempt hard things
+- build and use systems for time management
+
+Personal:
+
+- One tribe: we all have a shared humanity
+- mutual respect and care
+- keep trying
+- take risks
+- share your "riches" with others
+- stay active and protect that ability
+
+#### Drivers
+
+<div class='code-compare'>
+
+<div markdown='1'>
+
+WHAT I LOVE
+
+</div>
+
+<div markdown='1'>
+
+- intense physical activity
+- good music - all genres
+- growth / plastic mindset
+- working with my hands and my mind to make things
+- seeing others surpass their own expectations
+
+</div>
+
+</div>
+
+
+<div class='code-compare'>
+
+<div markdown='1'>
+
+WHAT I HATE
+
+</div>
+
+<div markdown='1'>
+
+- losing track of time
+- not being able to estimate time effectively
+- not being prepared and having to improvise
+- when fear causes me or others to waste energy fighting against collaboration or exploration
+
+</div>
+
+</div>
+
+
+<div class='code-compare'>
+
+<div markdown='1'>
+
+WHAT EXCITES AND MOTIVATES ME
+
+</div>
+
+<div markdown='1'>
+
+- new things that can help my students and children
+- new insights into my own struggles
+- feeling healthy and energetic
+- seeing my kids improve and become more independant
+- seeing my wife happy and relaxed
+
+</div>
+
+</div>
+
+
+<div class='code-compare'>
+
+<div markdown='1'>
+
+WHAT I'M COMMITTED TO
+
+</div>
+
+<div markdown='1'>
+
+Improving my ability as a kind, gentle, supportive and active human (person, husband, father, teacher, coach/mentor).
+
+</div>
+
+</div>
+
+
+</details>
 
 </div>
 
