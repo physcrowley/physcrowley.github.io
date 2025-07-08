@@ -133,15 +133,7 @@ Personal:
 
 <div markdown='1'>
 
-<div class='code-compare'>
-
-<div markdown='1'>
-
-WHAT I LOVE
-
-</div>
-
-<div markdown='1'>
+What I Love
 
 - intense physical activity
 - good music - all genres
@@ -149,40 +141,14 @@ WHAT I LOVE
 - working with my hands and my mind to make things
 - seeing others surpass their own expectations
 
-</div>
-
-</div>
-
-
-<div class='code-compare'>
-
-<div markdown='1'>
-
-WHAT I HATE
-
-</div>
-
-<div markdown='1'>
+What I Hate
 
 - losing track of time
 - not being able to estimate time effectively
 - not being prepared and having to improvise
 - when fear causes me or others to waste energy fighting against collaboration or exploration
 
-</div>
-
-</div>
-
-
-<div class='code-compare'>
-
-<div markdown='1'>
-
-WHAT EXCITES AND MOTIVATES ME
-
-</div>
-
-<div markdown='1'>
+What excites and motivates me
 
 - new things that can help my students and children
 - new insights into my own struggles
@@ -190,30 +156,14 @@ WHAT EXCITES AND MOTIVATES ME
 - seeing my kids improve and become more independant
 - seeing my wife happy and relaxed
 
-</div>
+What I'm Committed To
 
-</div>
-
-
-<div class='code-compare'>
-
-<div markdown='1'>
-
-WHAT I'M COMMITTED TO
-
-</div>
-
-<div markdown='1'>
-
-Improving my ability as a kind, gentle, supportive and active human (person, husband, father, teacher, coach/mentor).
-
-</div>
-
-</div>
+- Improving my ability as a kind, gentle, supportive and active human (person, husband, father, teacher, coach/mentor).
 
 </div>
 
 </details>
+
 
 
 <details>
@@ -237,23 +187,46 @@ Improving my ability as a kind, gentle, supportive and active human (person, hus
 - Engaging everyone: lower floor, higher ceiling -> designing projects all students can get excited about
 - Punctuality: being ahead of time
 
-### General actions
+### Ideas for action
 
-...
+For karate
 
-### Consequences
+- Leverage the dojo: time on the mat, access to mirrors, feedback from teachers and students
+- Follow other model martial artists: Gabriel Vargas (kicks) and Bertrand Jaillet (shotokan stances and movements)
+- Apply previous knowledge: use my former ATG programs for bulletproofing workouts
 
-...
+For personal and professional goals
+
+- Build on the successes of my therapy, medication and systems for time management and being present
+- Use the private chat group I have access to through Flow State to continue to document my immediate work intentions and the real time/progress made
+- Keep open communication with my family, and make that a priority
+- Focus on function at the expense of form (have what I need first before what I want)
+
+### Ideas for consequences
+
+Celebrating success
+
+- Add a star to a shirt/board
+- Tell myself I knew I could do it (positive affirmation)
+- Have an (extra) date night with Alli
+- Invest in a Bells of Steel kettlebell
+
+Stakes for failure
+
+- Have students propose forfeits if I miss correcting deadlines
+- Fold **all** the laundry for a week
+- Do **all** the dog walks for a week
+- Prepare **all** the dinners for a week
 
 </div>
 
 </details>
 
 
-
 </div>
 
 </details>
+
 
 </div>
 
