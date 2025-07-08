@@ -3,6 +3,11 @@
   top: 0;
   z-index: 10;
   text-decoration: none;
+  background-color: #f6f8fa;
+}
+
+.page-title > p {
+  margin-bottom: 1em;
 }
 
 .bbc-menu {
@@ -25,7 +30,6 @@
   background-color: #dbedff;
 }
 
-#title,
 #content {
   background-color: #fff;
 }
