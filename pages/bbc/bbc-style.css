@@ -29,3 +29,9 @@
 #content {
   background-color: #fff;
 }
+
+@media (max-width: 599px) {
+  #menu {
+    display: hidden;
+  }
+}
