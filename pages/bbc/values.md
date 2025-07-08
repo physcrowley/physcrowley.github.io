@@ -36,7 +36,9 @@ This section presents my personal values and how that manifests as a vision, pur
 
 The **context** section presents a bit of history behind these values, since this is not the first time I've been through this process of self-reflection.
 
-<details><summary>Context</summary>
+<details>
+
+<summary>Context</summary>
 
 <div markdown='1'>
 
@@ -45,10 +47,6 @@ The **context** section presents a bit of history behind these values, since thi
 Running for Student President of McGill's Macdonald Campus
 
 ...committed to our success
-
-</div>
-
-<div markdown='1'>
 
 ### Coaching soccer
 
@@ -61,7 +59,11 @@ Reviving the Jeannois du Collège d'Alma men's soccer team
 </details>
 
 
-<details><summary>Vision, Purpose, Code of conduct</summary>
+<details>
+
+<summary>Vision, Purpose, Code of conduct</summary>
+
+<div markdown='1'>
 
 ### Vision
 
@@ -93,9 +95,13 @@ I call this process "excellence". For me, excellence is not a state nor an achie
 
 </blockquote>
 
-### Foundational drivers
+### Putting It All Into Action
 
-#### Rules and Values
+<details>
+
+<summary>Rules and values</summary>
+
+<div markdown='1'>
 
 For Safety and Success:
 
@@ -115,7 +121,17 @@ Personal:
 - share your "riches" with others
 - stay active and protect that ability
 
-#### Drivers
+</div>
+
+</details>
+
+
+
+<details>
+
+<summary>Drivers</summary>
+
+<div markdown='1'>
 
 <div class='code-compare'>
 
@@ -195,6 +211,47 @@ Improving my ability as a kind, gentle, supportive and active human (person, hus
 
 </div>
 
+</div>
+
+</details>
+
+
+<details>
+
+<summary>Categories For Improvement</summary>
+
+<div markdown='1'>
+
+### Personal
+
+- Being more reliable: following through on my word without caveats or renegotiation
+- Listening and validating: stay calm and do not interrupt or add my ideas/feelings while listening
+- Understand anxiety better: help my daughter (and my students)
+- More disciplined sleep routine
+- Spending time: being emotionally present throughout the year
+
+### Professional
+
+- Timely, effective feedback: correcting valid work efficiently
+- Better balance: my current systems create unsustainable workload; I need better alternatives
+- Engaging everyone: lower floor, higher ceiling -> designing projects all students can get excited about
+- Punctuality: being ahead of time
+
+### General actions
+
+...
+
+### Consequences
+
+...
+
+</div>
+
+</details>
+
+
+
+</div>
 
 </details>
 
