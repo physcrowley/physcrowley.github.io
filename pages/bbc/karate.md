@@ -32,8 +32,21 @@ _David Crowley_ \| _Hanshi John Leroux, Ottawa School of Karate-do_
 
 ## Karate
 
-...
+### Three-Month Goal
 
+
+### One-Year Goal
+
+
+### Black Belt Grading Date
+
+> Fall 2030 give or take 6 months.
+
+This projected date assumes an 8 month per belt rate (green through purple advanced) and one year for the brown belt.
+
+The black belt itself isn't important in itself , but it is a goal that allows me to practice "excellence" / kaizen / continuous improvement.
+
+It will also be a sign of my physical ability when I'm 49, setting me up for the "fit in my 50s" goal and an active life with my wife as our children become adults.
 
 </div>
 
