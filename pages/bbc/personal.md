@@ -32,7 +32,15 @@ _David Crowley_ \| _Hanshi John Leroux, Ottawa School of Karate-do_
 
 ## Personal
 
-...
+### Three-Month Goal
+
+
+
+### One-Year Goal
+
+
+
+### Black Belt Grading Date
 
 
 </div>
