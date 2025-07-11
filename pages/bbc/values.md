@@ -52,7 +52,28 @@ Running for Student President of McGill's Macdonald Campus
 
 Reviving the Jeannois du Collège d'Alma men's soccer team
 
-...excellence
+<iframe width=80% style='max-width: 80%; max-height: 300px' src="https://docs.google.com/document/d/e/2PACX-1vTvXfaOzZQYb_SZrR7kjL1ZTqknjeJZZdIKETqbfPcdo7MiV3gQiPbkIwwbZ7Atams1oVORnsWXOSEH/pub?embedded=true"></iframe>
+
+
+### Vision Board
+
+I did not attend last year's Vision Board leadership seminar, but I was captivated by the idea and ended up implementing my own version. I have this vision board appear on my desktop everytime I turn on my computer and as a pinned comment.
+
+<div class='code-compare'>
+
+<div markdown='1'>
+
+![desktop](../../assets/img/viz-board-desktop.png)
+
+</div>
+
+<div markdown='1'>
+
+![keep](../../assets/img/viz-board-keep.png)
+
+</div>
+
+</div>
 
 </div>
 
