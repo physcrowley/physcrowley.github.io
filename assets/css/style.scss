@@ -7,6 +7,9 @@
 // https://github.com/pages-themes/primer/blob/748f4ec7d1c3f96037d5c861395c7a5909353a52/_sass/primer-support/lib/variables/color-system.scss
 // gray, blue, green, yellow, orange, purple, red... -500 is default, -000 is lightest, -900 is darkest
 
+a:has(img):hover {
+    text-decoration: none;
+}
 
 footer {
   border-top: 1px solid $gray-300;
