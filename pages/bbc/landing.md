@@ -1,6 +1,6 @@
 <link rel="stylesheet" href="bbc-style.css">
 
-<div id="title" class="page-title" markdown='1'>
+<div class="bbc-title" markdown='1'>
 
 # Black Belt Club Project
 
@@ -16,11 +16,17 @@
 
 <div markdown="1" style="align-self: center;">
 
+By:
+: David Crowley
+
 For:
-: Hanshi John Leroux, _Ottawa School of Karate-do_
+: Hanshi John Leroux, 
+
+At:
+: Ottawa School of Karate-do
 
 On:
-: July 11th, 2025
+: July 12th, 2025
 
 </div>
 

@@ -1,42 +1,32 @@
 <link rel="stylesheet" href="bbc-style.css">
 
-<div id="title" class="page-title" markdown='1'>
+<div class="bbc-title" markdown='1'>
 
 # [Black Belt Club Project](landing.md)
 
 _David Crowley_ \| _Hanshi John Leroux, Ottawa School of Karate-do_
 
+<div id="menu" class="bbc-menu" markdown=1>
+
+- [Values](values.md)
+- [Karate Goals](karate.md)
+- [Personal Goals](personal.md)
+
 </div>
+
+</div>
+
+## Karate
 
 <div class="tile-box">
 
-<div id="menu" class="bbc-menu" markdown=1>
-
-#### Quick Access
-
-1. [Values](values.md)
-   1. Context
-   2. Vision, Purpose, Code of Conduct
-2. [Karate Goals](karate.md)
-   1. 3-month
-   2. 1 year
-   3. Black Belt testing
-3. [Personal Goals](personal.md)
-   1. 3-month
-   2. Next 10 years
-   3. 10+ years
-
-</div>
-
-<div id="content" class="bbc-content" markdown=1>
-
-## Karate
+<div markdown='1'>
 
 ### Three-Month Goal
 
 In the next three months, following the July progress check, I will achieve the following advancements in my karate practice:
 
-1. **Flexibility**: Higher kicks because they are cool 😎. Specifically, 
+1. **Flexibility**: Higher kicks because they are cool 😎. Specifically,
    - At least 5cm on each of mae geri kekomi and keage, yoko geri keage and kekomi, mawashi geri and outside crescent kick.
 2. **Strength**: Knee and shoulder stability so I can use my power more effectively and protect my body long-term. Specifically :
    - No instances of shoulder blade winging on single-arm TRX presses;
@@ -98,14 +88,15 @@ For bullet-proofing, I will pick up the ATG Coaching Zero program I used before 
 - [Blog](https://www.atgonlinecoaching.com/articles)
 
 > Exercise list (combines part of the upper body workout and all of the lower body workout)
-> - Upper body superset : TRX single arm press ->  TRX inverted row -> Band pull aparts
->     - 10 reps per exercise
->     - 2-3 sets
->     - band pull apart variations : 
->         - with thumbs pointed back; 
->         - start from high and bring down to chest as you pull; 
->         - replace with 3 sets of 10 band face-pulls;
->         - replace with seated shoulder cuff rotations (elbow on knee, arm at 90 degrees, with dumbell: 3x 10 reps each side)
+>
+> - Upper body superset : TRX single arm press -> TRX inverted row -> Band pull aparts
+>   - 10 reps per exercise
+>   - 2-3 sets
+>   - band pull apart variations :
+>     - with thumbs pointed back;
+>     - start from high and bring down to chest as you pull;
+>     - replace with 3 sets of 10 band face-pulls;
+>     - replace with seated shoulder cuff rotations (elbow on knee, arm at 90 degrees, with dumbell: 3x 10 reps each side)
 > - 10x 1min reverse steps with band
 > - 25x tibialis raise
 > - 25x straight leg (gastroc) calf raise -> progess to single-leg
@@ -172,10 +163,15 @@ For hip mechanics and coordination, I have found a great Shotokan dojo in France
 
 </details>
 
+</div>
+
+<div markdown='1'>
+
 ### One-Year Goal
 
+</div>
 
-
+<div markdown='1'>
 
 ### Black Belt Grading Date
 
