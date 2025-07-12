@@ -1,9 +1,20 @@
+body {
+  --gray-100: #f6f8fa;
+  --gray-300: #d1d5da;
+  --blue-100: #dbedff;
+  --orange-100: #ffebda;
+  --white: #fff;
+}
+
 .page-title {
   position: sticky;
   top: 0;
   z-index: 10;
   text-decoration: none;
-  background-color: #f6f8fa;
+  background-color: var(--gray-300);
+  padding: 1em;
+  border-bottom-right-radius: 1em;
+  border-bottom-left-radius: 1em;
 }
 
 .page-title > p {
@@ -13,9 +24,10 @@
 .bbc-menu {
   width: 20%;
   position: sticky;
-  top: calc(2em + 40px);
+  top: 11em;
   margin-right: 1em;
   margin-bottom: 1em;
+  border-radius: 1em;
 }
 
 .bbc-content {
@@ -27,11 +39,11 @@
 }
 
 #menu {
-  background-color: #dbedff;
+  background-color: var(--blue-100);
 }
 
 #content {
-  background-color: #fff;
+  background-color: var(--white);
 }
 
 @media (max-width: 599px) {
