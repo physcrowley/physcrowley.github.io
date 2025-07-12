@@ -42,22 +42,42 @@ The **context** section presents a bit of history behind these values, since thi
 
 <div markdown='1'>
 
-### Student Leadership
+### Student Leadership - Origin Story of My Slogan
 
-Running for Student President of McGill's Macdonald Campus
+In the final year of my undergraduate degree at McGill University, the fall of 2003, I ran for President of the Macdonald Campus Student Society along with my friend Maxime who ran for VP of Business. We both won. Part of the successful campaign involved coming up with a fitting slogan.
 
-...committed to our success
+You have already seen it if you have read any of my emails:
 
-### Coaching soccer
+> Committed to our success \| Engagé dans notre succès
 
-Reviving the Jeannois du Collège d'Alma men's soccer team
+I originally started with "committed to _your_ success" but Maxime thought that it was more important to convey that success would be shared and mutual. I agreed and that slogan has stayed with me ever since.
 
-<iframe width=80% style='max-width: 80%; max-height: 300px' src="https://docs.google.com/document/d/e/2PACX-1vTvXfaOzZQYb_SZrR7kjL1ZTqknjeJZZdIKETqbfPcdo7MiV3gQiPbkIwwbZ7Atams1oVORnsWXOSEH/pub?embedded=true"></iframe>
+### Coaching soccer - Sharing My Philosphy for Team Excellence
+
+In 2008 after a few youth coaching roles in Alma, Lac St-Jean, the Cegep's sporting director approached me with an offer to relaunch their men's soccer team.
+
+I invested heavily in reference materials in both tactics and techniques but also sports psychology. Especially after seeing how mixed the skill level of the original team was, I knew we would need to rely mostly on belief in the team and improving on objectives rather that gauging our success on wins.
+
+This is Team Philosphy document I came up with at the time, and I remembered it at some point in the last year when certain parts of _kaizen_ were discussed in class. That moment created a powerful sense of belonging at the dojo, and I knew that whatever differences of opinion we may occasionally have, we would very likely always be able to resolve it on account of our very similar shared visions.
+
+<iframe src="https://docs.google.com/document/d/e/2PACX-1vTvXfaOzZQYb_SZrR7kjL1ZTqknjeJZZdIKETqbfPcdo7MiV3gQiPbkIwwbZ7Atams1oVORnsWXOSEH/pub?embedded=true">
+
+</iframe>
 
 
-### Vision Board
+### Vision Board - A Precursor
 
-I did not attend last year's Vision Board leadership seminar, but I was captivated by the idea and ended up implementing my own version. I have this vision board appear on my desktop everytime I turn on my computer and as a pinned comment.
+I did not attend last year's Vision Board leadership seminar, but I was captivated by the idea and ended up implementing my own version after asking some questions about it at the dojo. I have this vision board load on my desktop everytime I log onto my computer and as a pinned note in the Google Keep tab that opens as my home page every time I open my web browser.
+
+The biggest part of that vision is :
+- Balance: family, work, self
+
+The other four elements of that vision are :
+- Black belt / Fit in 50s
+- Close as a couple
+- Model for my children
+- Inspiration for my students
+
 
 <div class='code-compare'>
 
@@ -65,11 +85,15 @@ I did not attend last year's Vision Board leadership seminar, but I was captivat
 
 ![desktop](../../assets/img/viz-board-desktop.png)
 
+Desktop pop-up on start-up
+
 </div>
 
 <div markdown='1'>
 
 ![keep](../../assets/img/viz-board-keep.png)
+
+Pinned note in Google Keep
 
 </div>
 
