@@ -6,23 +6,23 @@ body {
   --blue-100: #dbedff;
   --orange-100: #ffebda;
   --white: #fff;
+  --title-z: 2;
 }
 
 .bbc-title {
   position: sticky;
   top: 0;
   overflow: hidden;
-  z-index: 10;
+  z-index: var(--title-z);
   text-decoration: none;
   background-color: var(--gray-300);
   padding: 1em;
-  border-bottom-right-radius: 1em;
-  border-bottom-left-radius: 1em;
 }
 
 .bbc-menu {
   position: relative;
   inset-block-start: 11em;
+  z-index: calc(var(--title-z) + 1);
   & ul {
     list-style-type: none;
     margin: 0;
