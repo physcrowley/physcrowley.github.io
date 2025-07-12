@@ -17,14 +17,14 @@ _David Crowley_ \| _Hanshi John Leroux, Ottawa School of Karate-do_
 1. [Values](values.md)
    1. Context
    2. Vision, Purpose, Code of Conduct
-2. [Personal Goals](personal.md)
-   1. 3-month
-   2. Next 10 years
-   3. 10+ years
-3. [Karate Goals](karate.md)
+2. [Karate Goals](karate.md)
    1. 3-month
    2. 1 year
    3. Black Belt testing
+3. [Personal Goals](personal.md)
+   1. 3-month
+   2. Next 10 years
+   3. 10+ years
 
 </div>
 
