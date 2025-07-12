@@ -16,9 +16,23 @@ Ottawa School of Karate-do
 
 <div id="menu" class="bbc-menu" markdown=1>
 
-- [Values](values.md)
-- [Karate Goals](karate.md)
-- [Personal Goals](personal.md)
+<div markdown='1'>
+
+[Values](values.md)
+
+</div>
+
+<div class="active" markdown='1'>
+
+[Karate Goals](karate.md)
+
+</div>
+
+<div markdown='1'>
+
+[Personal Goals](personal.md)
+
+</div>
 
 </div>
 

@@ -16,32 +16,54 @@ Ottawa School of Karate-do
 
 <div id="menu" class="bbc-menu" markdown=1>
 
-- [Values](values.md)
-- [Karate Goals](karate.md)
-- [Personal Goals](personal.md)
+<div markdown='1'>
+
+[Values](values.md)
+
+</div>
+
+<div  markdown='1'>
+
+[Karate Goals](karate.md)
+
+</div>
+
+<div class="active" markdown='1'>
+
+[Personal Goals](personal.md)
 
 </div>
 
 </div>
 
+</div>
 
-<div class="tile-box bbc-content">
-
-<div id="content" class="bbc-content" markdown=1>
 
 ## Personal
 
+<div class="tile-box bbc-content">
+
+<div markdown='1'>
+
 ### Three-Month Goal
 
+</div>
 
+
+
+<div markdown='1'>
 
 ### One-Year Goal
 
+</div>
+
+
+<div markdown='1'>
 
 
 ### Black Belt Grading Date
 
-
 </div>
+
 
 </div>
