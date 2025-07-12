@@ -19,6 +19,15 @@ body {
   padding: 1em;
 }
 
+.bbc-meta {
+  display: flex;
+  & p {
+    font-style: italic;
+    border-left-color: var(--gray-100);
+    border-left-width: 2px;
+  }
+}
+
 .bbc-menu {
   position: relative;
   inset-block-start: 11em;

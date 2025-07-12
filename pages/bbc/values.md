@@ -4,7 +4,15 @@
 
 # [Black Belt Club Project](landing.md)
 
-_David Crowley_ \| _Hanshi John Leroux, Ottawa School of Karate-do_
+<div class="bbc-meta" markdown='1'>
+
+David Crowley
+
+Hanshi John Leroux
+
+Ottawa School of Karate-do
+
+</div>
 
 <div id="menu" class="bbc-menu" markdown=1>
 
