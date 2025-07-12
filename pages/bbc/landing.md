@@ -6,7 +6,7 @@
 
 </div>
 
-<div class="code-compare">
+<div class="code-compare" style="margin-top: 1em;">
 
 <div markdown="1">
 
@@ -30,16 +30,15 @@ On:
 
 #### Contents
 
-1. [Values](values.md)
-   1. Context
-   2. Vision, Purpose, Code of Conduct
-2. [Personal Goals](personal.md)
-   1. 3-month
-   2. Next 10 years
-   3. 10+ years
-3. [Karate Goals](karate.md)
-   1. 3-month
-   2. 1 year
-   3. Black Belt testing
+<div markdown='1' style='display: flex;justify-content: space-around; margin: 1em;'>
+
+<button type='button' onclick="window.location='values';">Values</button> 
+
+<button type='button' onclick="window.location='karate';">Karate Goals</button>
+
+<button type='button' onclick="window.location='personal';">Personal Goals</button>
+
+</div>
+
 
 </div>
