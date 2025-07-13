@@ -7,12 +7,19 @@ body {
   --title-z: 2;
 }
 
-.markdown-body button, summary {
-  background-color: var(--osk-yellow);
-}
-
-.markdown-body button:hover, summary:hover {
-  background-color: var(--osk-orange);
+.markdown-body {
+  & button {
+    background-color: var(--osk-yellow);
+  }
+  & button:hover {
+    background-color: var(--osk-orange);
+  }
+  & summary {
+    background-color: var(--osk-yellow);
+  }
+  & summary:hover {
+    background-color: var(--osk-orange);
+  }
 }
 
 .tile-box > div {
@@ -64,12 +71,14 @@ body {
 
 #landing {
   border: 2px solid var(--gray-900);
-  & h2,h3,h4 {
+  & h2,
+  h3,
+  h4 {
     text-align: center;
   }
   & div {
     display: flex;
-    justify-content: space-around; 
+    justify-content: space-around;
     margin-bottom: 0.5em;
   }
   & p {
@@ -114,4 +123,3 @@ body {
     flex-wrap: wrap;
   }
 }
-
