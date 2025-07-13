@@ -137,13 +137,13 @@ Other tutorials by Bertrand Jaillet:
 | Goal | Test |
 | --- | --- |
 | Kicks | Mark/Tape on point on wall from a fixed distance for each kick |
-| Stability | Shoulder = random self-check with free hand during TRX press; Knee = film Heian Shodan and count lateral deflections; Oi zuki = check by instructor for alignment and stability |
-| Skill | Shoulder roll to side break fall = film and count number/degree of deflection from staight line; Back roll = film and count number of head contacts; Ippon seoi nage = challenge instructor for a grade |
+| Stability | **Shoulder** = random self-check with free hand during TRX press; **Knee** = film Heian Shodan and count lateral deflections; **Oi zuki** = check by instructor for alignment and stability |
+| Skill | **Shoulder roll to side break fall** = film and count number/degree of deflection from staight line; **Back roll** = film and count number of head contacts; Ippon seoi nage = challenge instructor for a grade |
 
 #### When
 
 | Week | Description                 |
-| ---- | --------------------------- |
+| :--: | --------------------------- |
 | 1    | Baseline values             |
 | 3    | Quarter of the way          |
 | 7    | Midpoint and progress check |
@@ -158,6 +158,28 @@ Other tutorials by Bertrand Jaillet:
 <summary>Rewards and Stakes</summary>
 
 <div markdown='1'>
+
+#### Rewards
+
+The absolute top reward will be that bullet-proofed, coordinated body that can continue practicing karate and a wide variety of other physical activities into the foreseeable future. Notably, I can have confidence that my body will be able to handle the ongoing journey towards my black belt.
+
+For small, routine achievements, I will have:
+- journal entries
+- verbal self-affirmations
+- a progress board filled with stars
+
+For a larger reward if I hit more than 80% of my planned workouts, I would get a [Bells of Steel kettlebell](https://www.amazon.ca/Adjustable-Bells-Steel-Internally-Loaded-Competition/dp/B0D38BLJQW) as an upgrade to the 25lb ones I currently have.
+
+#### Stakes
+
+Again, the biggest stakes of failure are not sufficiently building my physical capacity and having to drop the intensity of my training, and possibly reducing load in other aspects of my life. I really get grumpy and restless when I'm injured! Nobody wants that!
+
+As forfeits :
+- for missing a single workout: 30 minutes less evening entertainment, converted to an earlier bedtime that day and an earlier rise the next morning.
+- for missing 2 workouts in a week: zero screen-time in the evening plus the single-workout forfeit
+- for missing more than 20% of workouts from one check-point to the next: the above 2-miss forfeit applies automatically for the next week.
+
+The aim here is to annoy me while also providing space for rest and potentially building better sleep habits as a by-product of this karate goal.
 
 </div>
 
