@@ -7,11 +7,11 @@ body {
   --title-z: 2;
 }
 
-.markdown-body button {
+.markdown-body button, summary {
   background-color: var(--osk-yellow);
 }
 
-.markdown-body button:hover {
+.markdown-body button:hover, summary:hover {
   background-color: var(--osk-orange);
 }
 
