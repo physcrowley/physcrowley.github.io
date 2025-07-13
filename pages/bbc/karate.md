@@ -119,36 +119,15 @@ Other tutorials by Bertrand Jaillet:
 - [JKA Karaté training : STRETCHING SHOTOKAN KARATE-DO vidéo n°7](https://youtu.be/ee8XHa7fuzM?si=cw9jo5ar_v72fM84)
 - [JKA karaté training : CONTRÔLE DES GENOUX, HANCHES ET POSITIONS](https://youtu.be/p23lsymbAlU?si=5j30eqfhS06jO8Wm)
 
-</div>
 
-</details>
+#### Skill
 
-<details>
-
-<summary>Checkpoints</summary>
-
-<div markdown='1'>
-
-#### Checks
-
-| Goal | Test |
-| --- | --- |
-| Kicks | Mark/Tape on point on wall from a fixed distance for each kick |
-| Stability | **Shoulder** = random self-check with free hand during TRX press; **Knee** = film Heian Shodan and count lateral deflections; **Oi zuki** = check by instructor for alignment and stability |
-| Skill | **Shoulder roll to side break fall** = film and count number/degree of deflection from staight line; **Back roll** = film and count number of head contacts; Ippon seoi nage = challenge instructor for a grade |
-
-#### When
-
-| Week | Description                 |
-| :--: | --------------------------- |
-|  1   | Baseline values             |
-|  3   | Quarter of the way          |
-|  7   | Midpoint and progress check |
-|  14  | Final check                 |
+For training skill, it is simply a matter of practicing my breakfalls and my throws on the mat after class and getting feedback from my _uki_, from the instructors and from analysing film myself.
 
 </div>
 
 </details>
+
 
 <details>
 
@@ -186,6 +165,32 @@ The aim here is to annoy me while also providing space for rest and potentially 
 
 <details>
 
+<summary>Checkpoints</summary>
+
+<div markdown='1'>
+
+#### Test for Progress on Kicks
+
+> - Place a mark or a piece of tape on wall at the height reached from a fixed distance for each kick
+
+#### Test for Progress on Stability
+
+> - Shoulder: random self-check with free hand during TRX press
+> - Knee: film Heian Shodan and count lateral deflections
+> - Oi zuki: check by instructor for alignment and stability
+
+#### Test for Progress on Skill
+
+> - Shoulder roll to side break fall: film and count number/degree of deflection from staight line
+> - Back roll: film and count number of head contacts
+> - Ippon seoi nage = challenge instructor for a grade
+
+</div>
+
+</details>
+
+<details>
+
 <summary>Training and Assessment Calendar</summary>
 
 <div markdown='1'>
@@ -199,7 +204,7 @@ For this short-term goal, I have the following base calendar:
 | Tuesday, Thursday, Saturday | 8:30pm-9pm | Ukemi and throw work after class |
 | Wednesday, Friday           | 7am-7:15am | Gabriel Vargas kick routine      |
 
-Considering various conflicts for vacation and child care, this amounts to the following goals for the 3-month period:
+Considering various conflicts for vacation and child care, this amounts to the following goals for the 14-week period starting on Sunday, July 20th, 2025 and ending on Saturday, October 25th, 2025.
 
 | Workout                        | Count |
 | ------------------------------ | :---: |
@@ -207,6 +212,15 @@ Considering various conflicts for vacation and child care, this amounts to the f
 | Stance (Bertrand Jaillet)      |  13   |
 | Kick mobility (Gabriel Vargas) |  21   |
 | Ukemi and throws               |  24   |
+
+The planned workouts include the following assessment sessions:
+
+| Week | Assessment name             | Date | Note |
+| :--: | --------------------------- | :-: | -- |
+|  1   | Baseline values             | Jul. 20-26 | |
+|  3   | Quarter of the way          | Aug. 10 | except skill |
+|  7   | Midpoint and progress check | Sep. 2-8 | |
+|  14  | Final check                 | Oct. 19-25 | |
 
 </div>
 
@@ -222,7 +236,9 @@ My goal for one year from now is very simple.
 
 > No more corrections on the posture or alignment of my front, back and horse stances, nor on the fundamental mechanics of movement between those stances, nor on the delivery of low, rising, outside, inside or knifehand blocks from those stances.
 
-The reason is so that I can free my mind and my body for more advanced sequences and techniques that rely on thes fundamental ones in full confidence that my techniques are effective and safe.
+This goal is not about adding advanced mechanics to the basic stances and transitions but about having a fundamentally sound base of posture and movement from which to build.
+
+The reason is so that I can free my mind and my body for more advanced sequences and techniques that rely on these fundamental ones in full confidence that my techniques are effective and safe.
 
 </div>
 
