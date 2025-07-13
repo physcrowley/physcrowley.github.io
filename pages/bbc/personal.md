@@ -17,20 +17,14 @@ Ottawa School of Karate-do
 <div class="bbc-menu">
 
 <a href="/pages/bbc/values.html">Values</a>
-
 <a href="/pages/bbc/karate.html">Karate Goals</a>
-
 <a class="active" href="/pages/bbc/personal.html">Personal Goals</a>
 
 </div>
 
 </div>
 
-<div class=".bbc-content-title" markdown='1'>
-
-## Personal Goals
-
-</div>
+<h2 id="bbc-personal">Personal Goals</h2>
 
 <div class="tile-box bbc-content">
 

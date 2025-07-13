@@ -107,7 +107,7 @@ body {
     border-style: solid;
   }
 
-  .bbc-content-title {
+  #bbc-values, #bbc-karate, #bbc-personal {
     background-color: var(--gray-900);
     color: var(--osk-yellow);
     padding-left: 0.3em;
