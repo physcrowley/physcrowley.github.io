@@ -6,9 +6,9 @@
 
 <div class="bbc-meta" markdown='1'>
 
-David Crowley \|
+By: David Crowley \|
 
-Hanshi John Leroux \|
+For: Hanshi John Leroux \|
 
 Ottawa School of Karate-do
 
@@ -69,23 +69,23 @@ This is Team Philosphy document I came up with at the time, and I remembered it 
 </iframe>
 
 
-### Vision Board - A Precursor
+### Vision Board 2024
 
 I did not attend last year's Vision Board leadership seminar, but I was captivated by the idea and ended up implementing my own version after asking some questions about it at the dojo. I have this vision board load on my desktop everytime I log onto my computer and as a pinned note in the Google Keep tab that opens as my home page every time I open my web browser.
 
-The biggest part of that vision is :
-- Balance: family, work, self
-
-The other four elements of that vision are :
-- Black belt / Fit in 50s
-- Close as a couple
-- Model for my children
-- Inspiration for my students
+> The biggest part of that vision is :
+> - Balance: family, work, self
+> 
+> The other four elements of that vision are :
+> - Black belt / Fit in 50s
+> - Close as a couple
+> - Model for my children
+> - Inspiration for my students
 
 
 <div class='code-compare'>
 
-<div markdown='1'>
+<div markdown='1' style="text-align: center;">
 
 ![desktop](../../assets/img/viz-board-desktop.png)
 
@@ -93,7 +93,7 @@ Desktop pop-up on start-up
 
 </div>
 
-<div markdown='1'>
+<div markdown='1' style="text-align: center;">
 
 ![keep](../../assets/img/viz-board-keep.png)
 
