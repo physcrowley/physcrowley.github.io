@@ -32,7 +32,6 @@ Ottawa School of Karate-do
 
 </div>
 
-
 <div class="tile-box">
 
 <div markdown='1'>
@@ -64,9 +63,9 @@ In the next three months, following the July progress check, I will achieve the 
 Gabriel Vargas has been an inspiration for me recently and has many excellent kick mobility tutorials to choose from. I will work on one or another of the following for several weeks at a time, switching based on progress, observed need and simple variety.
 
 > [3 Exercises That Fix 90% Of High Kick Struggles](https://youtu.be/o4FUCiew7zU?si=ARj1r7cBnAUOGBxY&t=145)
-> 
+>
 > Exercice list
-> 
+>
 > 1. Raised hamstring stretch (toes up, drop chest) -> Pivot to side kick position and raise kicking leg -> Pivot to quad/hip flexor stretch/Bulgarian squat
 >    - 10x per leg
 >    - Adjust starting height: higher = harder
@@ -75,7 +74,6 @@ Gabriel Vargas has been an inspiration for me recently and has many excellent ki
 > 3. Standing, supported kick stretch with standing foot pivoted out : pull knee up with free hand with heel raised to the side -> extend lower leg to full round kick -> release leg and raise straight leg for height, using momentum -> snap kick
 >    - each exercice 3x
 >    - set of 10
-
 
 Other workouts by Gabriel Varga :
 
@@ -115,7 +113,6 @@ For **hip mechanics and coordination**, I have found a great Shotokan dojo in Fr
 > [JKA karaté training : 30mn pour entraîner vos hanches en SHOTOKAN KARATE DO VIDEO N°65](https://youtu.be/HGoypg7LMng?si=PpQFQp9arl_TY3Zn)
 >
 > Exercise sequence based on _zenkutsu dachi_ that progressively integrates punching and blocking mechanics for full-body coordination.
-> 
 
 Other tutorials by Bertrand Jaillet:
 
@@ -144,10 +141,10 @@ Other tutorials by Bertrand Jaillet:
 
 | Week | Description                 |
 | :--: | --------------------------- |
-| 1    | Baseline values             |
-| 3    | Quarter of the way          |
-| 7    | Midpoint and progress check |
-| 14   | Final check                 |
+|  1   | Baseline values             |
+|  3   | Quarter of the way          |
+|  7   | Midpoint and progress check |
+|  14  | Final check                 |
 
 </div>
 
@@ -164,6 +161,7 @@ Other tutorials by Bertrand Jaillet:
 The absolute top reward will be that bullet-proofed, coordinated body that can continue practicing karate and a wide variety of other physical activities into the foreseeable future. Notably, I can have confidence that my body will be able to handle the ongoing journey towards my black belt.
 
 For small, routine achievements, I will have:
+
 - journal entries
 - verbal self-affirmations
 - a progress board filled with stars
@@ -175,6 +173,7 @@ For a larger reward if I hit more than 80% of my planned workouts, I would get a
 Again, the biggest stakes of failure are not sufficiently building my physical capacity and having to drop the intensity of my training, and possibly reducing load in other aspects of my life. I really get grumpy and restless when I'm injured! Nobody wants that!
 
 As forfeits :
+
 - for missing a single workout: 30 minutes less evening entertainment, converted to an earlier bedtime that day and an earlier rise the next morning.
 - for missing 2 workouts in a week: zero screen-time in the evening plus the single-workout forfeit
 - for missing more than 20% of workouts from one check-point to the next: the above 2-miss forfeit applies automatically for the next week.
@@ -191,7 +190,23 @@ The aim here is to annoy me while also providing space for rest and potentially 
 
 <div markdown='1'>
 
-> embed google calendar here
+For this short-term goal, I have the following base calendar:
+
+| Day                         |    Time    | Workout                          |
+| --------------------------- | :--------: | -------------------------------- |
+| Sunday                      | 7am-8:15am | ATG strength-through-length      |
+| Monday                      | 9pm-9:30pm | Bertrand Jaillet stance work     |
+| Tuesday, Thursday, Saturday | 8:30pm-9pm | Ukemi and throw work after class |
+| Wednesday, Friday           | 7am-7:15am | Gabriel Vargas kick routine      |
+
+Considering various conflicts for vacation and child care, this amounts to the following goals for the 3-month period:
+
+| Workout                        | Count |
+| ------------------------------ | :---: |
+| Stability (ATG)                |  11   |
+| Stance (Bertrand Jaillet)      |  13   |
+| Kick mobility (Gabriel Vargas) |  21   |
+| Ukemi and throws               |  24   |
 
 </div>
 
@@ -202,6 +217,12 @@ The aim here is to annoy me while also providing space for rest and potentially 
 <div markdown='1'>
 
 ### One-Year Goal
+
+My goal for one year from now is very simple.
+
+> No more corrections on the posture or alignment of my front, back and horse stances, nor on the fundamental mechanics of movement between those stances, nor on the delivery of low, rising, outside, inside or knifehand blocks from those stances.
+
+The reason is so that I can free my mind and my body for more advanced sequences and techniques that rely on thes fundamental ones in full confidence that my techniques are effective and safe.
 
 </div>
 
