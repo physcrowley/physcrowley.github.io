@@ -1,12 +1,18 @@
 body {
   --gray-200: #e1e4e8;
   --gray-900: #24292e;
-  --blue-100: #dbedff;
-  --orange-100: #ffebda;
   --osk-yellow: #fdd465;
   --osk-orange: #b54c42;
   --white: #fff;
   --title-z: 2;
+}
+
+.markdown-body button {
+  background-color: var(--osk-yellow);
+}
+
+.markdown-body button:hover {
+  background-color: var(--osk-orange);
 }
 
 .tile-box > div {
@@ -69,10 +75,6 @@ body {
   & p {
     margin: 0;
   }
-  & button {
-    background-color: var(--osk-yellow);
-    padding: 1em 1.5em;
-  }
 }
 
 #splash {
@@ -105,7 +107,7 @@ body {
   }
 
   #splash img {
-    max-height: 30%;
+    max-height: 150px;
   }
 
   #landing > div {
