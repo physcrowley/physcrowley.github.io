@@ -26,8 +26,11 @@ Ottawa School of Karate-do
 
 </div>
 
+<div class=".bbc-content-title" markdown='1'>
 
-## Personal
+## Personal Goals
+
+</div>
 
 <div class="tile-box bbc-content">
 

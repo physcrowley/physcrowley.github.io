@@ -61,7 +61,20 @@ body {
     position: relative;
   }
 
-  .bbc-meta, .bbc-menu {
+  .bbc-meta,
+  .bbc-menu {
     flex-direction: column;
+  }
+
+  .bbc-meta {
+    border-style: solid;
+  }
+
+  .bbc-content-title {
+    background-color: var(--gray-900);
+    color: var(--osk-yellow);
+    padding-left: 0.3em;
+    position: sticky;
+    top: 0;
   }
 }
