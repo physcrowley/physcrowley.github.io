@@ -6,9 +6,9 @@
 
 <div class="bbc-meta" markdown='1'>
 
-David Crowley \|
+By: David Crowley \|
 
-Hanshi John Leroux \|
+For: Hanshi John Leroux \|
 
 Ottawa School of Karate-do
 
