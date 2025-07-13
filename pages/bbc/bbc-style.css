@@ -56,6 +56,32 @@ body {
   }
 }
 
+#landing {
+  border: 2px solid var(--gray-900);
+  & h2,h3,h4 {
+    text-align: center;
+  }
+  & div {
+    display: flex;
+    justify-content: space-around; 
+    margin-bottom: 0.5em;
+  }
+  & p {
+    margin: 0;
+  }
+  & button {
+    background-color: var(--osk-yellow);
+    padding: 1em 1.5em;
+  }
+}
+
+#splash {
+  margin-top: 1em;
+  & .code-compare > div {
+    align-self: center;
+  }
+}
+
 @media screen and (max-width: 600px) {
   .bbc-title {
     position: relative;
@@ -77,4 +103,13 @@ body {
     position: sticky;
     top: 0;
   }
+
+  #splash img {
+    max-height: 30%;
+  }
+
+  #landing > div {
+    flex-wrap: wrap;
+  }
 }
+

@@ -14,7 +14,7 @@ Ottawa School of Karate-do
 
 </div>
 
-<div class="bbc-menu" markdown='1'>
+<div class="bbc-menu">
 
 <a class="active" href="/pages/bbc/values.html">Values</a>
 

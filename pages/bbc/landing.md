@@ -6,7 +6,7 @@
 
 </div>
 
-<div class="code-compare" style="margin-top: 1em;">
+<div id="splash" class="code-compare">
 
 <div markdown="1">
 
@@ -14,7 +14,7 @@
 
 </div>
 
-<div markdown="1" style="align-self: center;">
+<div markdown="1">
 
 By:
 : David Crowley
@@ -32,11 +32,11 @@ On:
 
 </div>
 
-<div class="bbc-content" markdown=1>
+<div id="landing" class="bbc-content" markdown=1>
 
 #### Contents
 
-<div markdown='1' style='display: flex;justify-content: space-around; margin: 1em;'>
+<div>
 
 <button type='button' onclick="window.location='values';">Values</button> 
 
