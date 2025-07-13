@@ -1,3 +1,14 @@
+body {
+  --gray-100: #f6f8fa;
+  --gray-300: #d1d5da;
+  --gray-700: #586069;
+  --gray-900: #24292e;
+  --blue-100: #dbedff;
+  --orange-100: #ffebda;
+  --white: #fff;
+  --title-z: 2;
+}
+
 .bbc-title {
   position: sticky;
   top: 0;
@@ -10,33 +21,37 @@
 
 .bbc-meta {
   display: flex;
+  flex-direction: row;
   & p {
-    margin-right: 1em;
-    font-style:italic;
+    padding-right: 0.3em;
+    font-style: italic;
   }
 }
 
 .bbc-menu {
-  background-color: var(--gray-100);
-
-  & div a {
-    display: block;
+  background-color: var(--orange-100);
+  display: flex;
+  flex-direction: row;
+  & a {
     color: var(--gray-900);
     text-align: center;
-    padding: 0.8em 1em;
     text-decoration: none;
+    padding: 0.8em 1em;
   }
-  & div a:hover:not(.active) {
+  & a:hover:not(.active) {
     background-color: var(--blue-100);
   }
-  & div a.active {
-    background-color: var(--gray-700);
-    color: var(--orange-100);
+  & a.active {
+    background-color: var(--gray-100);
   }
 }
 
-@media (max-width: 599px) {
+@media screen and (max-width: 600px) {
   .bbc-title {
     position: relative;
+  }
+
+  .bbc-meta, .bbc-menu {
+    flex-direction: column;
   }
 }

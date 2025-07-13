@@ -6,44 +6,31 @@
 
 <div class="bbc-meta" markdown='1'>
 
-David Crowley
+David Crowley \|
 
-Hanshi John Leroux
+Hanshi John Leroux \|
 
 Ottawa School of Karate-do
 
 </div>
 
-<div id="menu" class="bbc-menu" markdown=1>
+<div class="bbc-menu" markdown='1'>
 
-<div class="active" markdown='1'>
+<a class="active" href="/pages/bbc/values.html">Values</a>
 
-[Values](values.md)
+<a href="/pages/bbc/karate.html">Karate Goals</a>
 
-</div>
-
-<div  markdown='1'>
-
-[Karate Goals](karate.md)
-
-</div>
-
-<div markdown='1'>
-
-[Personal Goals](personal.md)
+<a href="/pages/bbc/personal.html">Personal Goals</a>
 
 </div>
 
 </div>
 
-</div>
-
+## Values
 
 <div class="tile-box">
 
-<div id="content" class="bbc-content" markdown=1>
-
-## Values
+<div class="bbc-content" markdown=1>
 
 This section presents my personal values and how that manifests as a vision, purpose, code of behaviour and list of goals.
 

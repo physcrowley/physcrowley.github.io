@@ -6,33 +6,21 @@
 
 <div class="bbc-meta" markdown='1'>
 
-David Crowley
+David Crowley \|
 
-Hanshi John Leroux
+Hanshi John Leroux \|
 
 Ottawa School of Karate-do
 
 </div>
 
-<div id="menu" class="bbc-menu" markdown=1>
+<div class="bbc-menu" markdown='1'>
 
-<div markdown='1'>
+<a href="/pages/bbc/values.html">Values</a>
 
-[Values](values.md)
+<a href="/pages/bbc/karate.html">Karate Goals</a>
 
-</div>
-
-<div  markdown='1'>
-
-[Karate Goals](karate.md)
-
-</div>
-
-<div class="active" markdown='1'>
-
-[Personal Goals](personal.md)
-
-</div>
+<a class="active" href="/pages/bbc/personal.html">Personal Goals</a>
 
 </div>
 
