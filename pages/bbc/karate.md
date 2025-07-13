@@ -58,30 +58,19 @@ In the next three months, following the July progress check, I will achieve the 
 
 Gabriel Vargas has been an inspiration for me recently and has many excellent kick mobility tutorials to choose from. I will work on one or another of the following for several weeks at a time, switching based on progress, observed need and simple variety.
 
-<div class='code-compare'>
+> [3 Exercises That Fix 90% Of High Kick Struggles](https://youtu.be/o4FUCiew7zU?si=ARj1r7cBnAUOGBxY&t=145)
+> 
+> Exercice list
+> 
+> 1. Raised hamstring stretch (toes up, drop chest) -> Pivot to side kick position and raise kicking leg -> Pivot to quad/hip flexor stretch/Bulgarian squat
+>    - 10x per leg
+>    - Adjust starting height: higher = harder
+> 2. Frog pose with legs in 90 degrees, calves parallel : rock back and forth 3x -> windsheild wipers 3x per side -> pivot to quick glute stretch/child pose 1x per > side
+>    - 10x
+> 3. Standing, supported kick stretch with standing foot pivoted out : pull knee up with free hand with heel raised to the side -> extend lower leg to full round kick -> release leg and raise straight leg for height, using momentum -> snap kick
+>    - each exercice 3x
+>    - set of 10
 
-<div markdown='1'>
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/o4FUCiew7zU?si=hzNi84Vnxfgtec2T&amp;start=145" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
-</div>
-
-<div markdown='1'>
-
-Exercice list
-
-1. Raised hamstring stretch (toes up, drop chest) -> Pivot to side kick position and raise kicking leg -> Pivot to quad/hip flexor stretch/Bulgarian squat
-   - 10x per leg
-   - Adjust starting height: higher = harder
-2. Frog pose with legs in 90 degrees, calves parallel : rock back and forth 3x -> windsheild wipers 3x per side -> pivot to quick glute stretch/child pose 1x per side
-   - 10x
-3. Standing, supported kick stretch with standing foot pivoted out : pull knee up with free hand with heel raised to the side -> extend lower leg to full round kick -> release leg and raise straight leg for height, using momentum -> snap kick
-   - each exercice 3x
-   - set of 10
-
-</div>
-
-</div>
 
 Other workouts by Gabriel Varga :
 
@@ -92,11 +81,11 @@ Other workouts by Gabriel Varga :
 
 I have two approaches here: one is general bullet-proofing and the other is hip mechanics and karate coordination.
 
-For bullet-proofing, I will pick up the ATG Coaching Zero program I used before in the years before joining the dojo.
+For **bullet-proofing**, I will pick up the ATG Coaching Zero program I used before in the years before joining the dojo.
 
-- [Website](https://www.atgonlinecoaching.com/)
-- [Blog](https://www.atgonlinecoaching.com/articles)
-
+> - [ATG Online Coaching Website](https://www.atgonlinecoaching.com/)
+> - [ATG Blog](https://www.atgonlinecoaching.com/articles)
+>
 > Exercise list (combines part of the upper body workout and all of the lower body workout)
 >
 > - Upper body superset : TRX single arm press -> TRX inverted row -> Band pull aparts
@@ -116,9 +105,17 @@ For bullet-proofing, I will pick up the ATG Coaching Zero program I used before 
 > - 5x ATG split squat per side x5 sets
 > - Mobility superset (2-3sets) : 30x elephant walk -> (1 min) L-sit progressions -> Couch stretch
 
-For hip mechanics and coordination, I have found a great Shotokan dojo in France lead by Bertrand Jaillet that produced many kihon tutorials during the pandemic. I will use a select few for hip strenthening, movement pattern improvement and whole-body coordination.
+For **hip mechanics and coordination**, I have found a great Shotokan dojo in France lead by Bertrand Jaillet that produced many kihon tutorials during the pandemic. I will use a select few for hip strenthening, movement pattern improvement and whole-body coordination.
 
-> embed BJ videos here
+> [JKA karaté training : 30mn pour entraîner vos hanches en SHOTOKAN KARATE DO VIDEO N°65](https://youtu.be/HGoypg7LMng?si=PpQFQp9arl_TY3Zn)
+>
+> Exercise sequence based on _zenkutsu dachi_ that progressively integrates punching and blocking mechanics for full-body coordination.
+> 
+
+Other tutorials by Bertrand Jaillet:
+
+- [JKA Karaté training : STRETCHING SHOTOKAN KARATE-DO vidéo n°7](https://youtu.be/ee8XHa7fuzM?si=cw9jo5ar_v72fM84)
+- [JKA karaté training : CONTRÔLE DES GENOUX, HANCHES ET POSITIONS](https://youtu.be/p23lsymbAlU?si=5j30eqfhS06jO8Wm)
 
 </div>
 
