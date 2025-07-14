@@ -26,7 +26,7 @@ At:
 : Ottawa School of Karate-do
 
 On:
-: July 12th, 2025
+: July 14th, 2025
 
 </div>
 
