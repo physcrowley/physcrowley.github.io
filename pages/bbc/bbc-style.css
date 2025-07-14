@@ -2,6 +2,7 @@ body {
   --gray-200: #e1e4e8;
   --gray-900: #24292e;
   --osk-yellow: #fdd465;
+  --osk-yellow-pale: #ffefca;
   --osk-orange: #b54c42;
   --white: #fff;
   --title-z: 2;
@@ -19,6 +20,10 @@ body {
   }
   & summary:hover {
     background-color: var(--osk-orange);
+  }
+  & blockquote {
+    border-left-color: var(--osk-yellow);
+    background-color: var(--osk-yellow-pale);
   }
 }
 
