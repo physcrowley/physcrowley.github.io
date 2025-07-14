@@ -2,7 +2,7 @@
 
 <div class="bbc-title" markdown='1'>
 
-# [Black Belt Club Project](landing.md)
+# Black Belt Club Project
 
 <div class="bbc-meta" markdown='1'>
 
@@ -16,7 +16,10 @@ Ottawa School of Karate-do
 
 <div class="bbc-menu">
 
-<a href="/pages/bbc/values.html">Values</a> <a href="/pages/bbc/karate.html">Karate Goals</a> <a class="active" href="/pages/bbc/personal.html">Personal Goals</a>
+<a href="/pages/bbc/landing.html">BBC Project Home</a> 
+<a href="/pages/bbc/values.html">Values</a> 
+<a href="/pages/bbc/karate.html">Karate Goals</a> 
+<a class="active" href="/pages/bbc/personal.html">Personal Goals</a>
 
 </div>
 
