@@ -44,12 +44,12 @@ In the next three months, over the course of the summer and through the start of
 > - structure accommodating split-level classes where grade 11 and grade 12 students are following different contracts in parallel with each other
 > - introduce junior / senior mechanics to enhance learning and leverage the experience of the older students
 
-I will consider this goal to be fully achieved if:
+I will consider this goal to be **fully achieved** if:
 
 1. I have a modular assessment system that is available from the first day of school.
 2. All course materials have been adjusted to fit the new modules by the first day of school.
 
-It will be a bonus to achieve this as well:
+It will be a **bonus** to achieve this as well:
 
 - Have junior / senior interactions programmed into each course
 
@@ -59,14 +59,14 @@ It will be a bonus to achieve this as well:
 
 <div markdown='1'>
 
-The best time for an overhaul like this is when I am not seeing the students during the day. Cue the summer vacation. Considering all the action over the summer, I see the following possibilities for work:
+The best time for an overhaul like this is when I am not seeing the students during the day. Cue the summer vacation. Considering all the action over the summer, I see the following **possibilities for work**:
 
 - while both kids are at camp, I will have about 3 hours per day between drop-off and pick-up
 - on other days, I will have about 30 minutes in the morning before breakfast and another hour while the kids have their game time
 - on the weekends, I may be able to get an extra hour before breakfast
 - no time at the cottage or when camping
 
-To make my work at producing documents more efficient, especially since I have a lot of existing personalised material to start with, I would like to try and leverage an AI agent to both help:
+To make my work at producing documents more efficient, especially since I have a lot of existing personalised material to start with, I would like to try and **leverage an AI agent** to both help:
 
 - creating the structure for the system
 - creating templates for contracts, assessments, and interviews and filling them with appropiate informaton
@@ -129,7 +129,9 @@ During the school year, I have also planned on:
 
 I will use the following tools to keep track of my progress:
 
-- Flow State "Time and Task" chat where I post estimated time and name of task then repost the actual time required. This chat is used by others for the same purpose
+- [Flow State](https://enter.ourflowstate.com/) "Time and Task" chat where I post estimated time and name of task then repost the actual time required. This chat is used by others for the same purpose. 
+  - _I have been using Bobby Lyte's Flow State podcasts for years and did not cancel my Patreon subscription even during the leanest of the post-pandemic years. He has helped me get better at using the time that I must structure for myself._
+  - _The tool of his I actually use on the regular, aside from the chat, is the [daily playlist](https://www.flowstateradio.com/) which has been progressively optimised to reduce distraction_
 - Pocket notebook with checklists
 - Files generated
 
