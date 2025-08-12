@@ -44,6 +44,8 @@ On:
 
 <button type='button' onclick="window.location='personal';">Personal Goals</button>
 
+<button type='button' onclick="window.location='tracking';">Progress Dashboards</button>
+
 </div>
 
 

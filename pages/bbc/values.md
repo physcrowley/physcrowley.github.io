@@ -16,10 +16,11 @@ Ottawa School of Karate-do
 
 <div class="bbc-menu">
 
-<a href="/pages/bbc/landing.html">BBC Project Home</a>
-<a class="active" href="/pages/bbc/values.html">Values</a>
-<a href="/pages/bbc/karate.html">Karate Goals</a>
-<a href="/pages/bbc/personal.html">Personal Goals</a>
+<a href="/pages/bbc/landing">BBC Project Home</a>
+<a class="active" href="/pages/bbc/values">Values</a>
+<a href="/pages/bbc/karate">Karate Goals</a>
+<a href="/pages/bbc/personal">Personal Goals</a>
+<a href="/pages/bbc/tracking">Personal Goals</a>
 
 </div>
 
