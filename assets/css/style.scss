@@ -69,6 +69,7 @@ footer {
   max-width:516px; 
   display:block; 
   margin:auto;
+  overflow-x: scroll;
 }
 
 .markdown-body iframe[src*="trinket"],

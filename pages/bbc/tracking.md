@@ -76,7 +76,13 @@ Bonus tasks
 
 #### Time management
 
-<iframe width="600" height="371" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQkYB1OkkkhfvkizAU4LWKNv9u6ZBh-jd8m5NdcHA55wfNwDMoDhzMQA63kxn6EcjTVG-5anXDPWqEL/pubchart?oid=1539416788&amp;format=interactive"></iframe>
+<div markdown='1'>
+
+<iframe height="400" frameborder="0" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQkYB1OkkkhfvkizAU4LWKNv9u6ZBh-jd8m5NdcHA55wfNwDMoDhzMQA63kxn6EcjTVG-5anXDPWqEL/pubchart?oid=1539416788&amp;format=interactive"></iframe>
+
+</div>
+
+
 
 </div>
 
