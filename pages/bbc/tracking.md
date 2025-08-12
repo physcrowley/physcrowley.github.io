@@ -54,12 +54,20 @@ Ottawa School of Karate-do
 
 #### Tasks
 
-- [ ] plan course content items for all 4 programming courses in the first semester
-- [ ] devise modular, regular-interval assessment system that includes interviews and allows for retakes
+- [x] plan course content items for all 4 programming courses in the first semester
+- [x] devise modular, regular-interval assessment system that includes interviews and allows for retakes
 - [ ] prepare all assessment items (questions) for all 4 programming courses
 - [ ] prepare interview sheets for all content items
 - [ ] plan course project sequences for all 4 courses, including senior/junior interactions where appropriate
-- [ ] write course project descriptions and rubrics for all 4 courses
+  - [x] 3U
+  - [x] 4U
+  - [ ] 3C
+  - [ ] 4C
+- [ ] write project descriptions and rubrics for all 4 courses
+  - [ ] 3U
+  - [ ] 4U
+  - [ ] 3C
+  - [ ] 4C
 - [ ] update online course materials to be divided into lessons coherent with the content items/modules used for the assessments
 
 Bonus tasks
