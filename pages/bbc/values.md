@@ -20,7 +20,7 @@ Ottawa School of Karate-do
 <a class="active" href="/pages/bbc/values">Values</a>
 <a href="/pages/bbc/karate">Karate Goals</a>
 <a href="/pages/bbc/personal">Personal Goals</a>
-<a href="/pages/bbc/tracking">Personal Goals</a>
+<a href="/pages/bbc/tracking">Dashboards</a>
 
 </div>
 
