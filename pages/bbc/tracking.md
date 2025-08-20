@@ -56,8 +56,20 @@ Ottawa School of Karate-do
 
 - [x] plan course content items for all 4 programming courses in the first semester
 - [x] devise modular, regular-interval assessment system that includes interviews and allows for retakes
+  - [x] Set-up student local datastructure (SQLlite and JSON)
+  - [x] Test connections to Google API
+  - [ ] Create student Sheets copies from contract template based on course
+  - [x] Create script to traverse student copies and produce quizzes based on newly completed and need-to-retake items
 - [ ] prepare all assessment items (questions) for all 4 programming courses
+  - [x] prepare prototype data structure (JSON)
+  - [x] confirm understanding of all items with AI assistant
+  - [ ] generate all items
+  - [ ] review and test all items (test quiz including all items from all sections in both languages)
 - [ ] prepare interview sheets for all content items
+  - [x] identify items for group interview versus individual interview
+  - [ ] generate questions (3 types)
+  - [ ] generate student copies for all interviews based on course
+  - [ ] create script for scheduling interviews based on item status 
 - [ ] plan course project sequences for all 4 courses, including senior/junior interactions where appropriate
   - [x] 3U
   - [x] 4U
@@ -69,6 +81,17 @@ Ottawa School of Karate-do
   - [ ] 3C
   - [ ] 4C
 - [ ] update online course materials to be divided into lessons coherent with the content items/modules used for the assessments
+  - [ ] decompose existing course materials based on new item list
+  - [ ] identify items with little or no existing material and generate fresh material for them
+  - [ ] for items with existing material, aggregate material from existing files
+  - [ ] clean-up and simplify each item's lessons
+- [ ] generate sample projects in both python and Java
+  - [ ] text-based game
+  - [ ] text-based game with locally saved state (high scores)
+  - [ ] gui-based game with mouse and locally saved state (level, high score)
+  - [ ] cli to find files in a given subfolder
+  - [ ] note-taking app (persistent data)
+  - [ ] media viewer using strategy pattern for different types of media, as necessary
 
 Bonus tasks
 
