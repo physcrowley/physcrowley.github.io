@@ -10,6 +10,8 @@
 
 Ce site héberge des ressources pour les sous-domaines suivants, comme les favicones et le CSS commun.
 
+> Pour le site des cours de sciences de M. Crowley, voir [bit.ly/davidcrowley](https://sites.google.com/a/ecolecatholique.ca/crowley/home)
+
 </div>
 
 </div>
@@ -28,7 +30,11 @@ Voici le nouveau site pour les cours d'informatique.
 
 > _Bien sûr, vous pouvez vous référez aux exemples des autres cours aussi mais vos évalulations dans le cours sont basées sur ces choix de langages selon les cotes de cours._
 
-<button onclick="window.location.href='./ICS'"> /ICS - Portail des références pour les cours d'informatique<br>(3C, 3U, 4C, 4U)</button>
+<div>
+
+<button onclick="window.location.href='./ICS'"> /ICS - Nouveau portail universel<br>(3C, 3U, 4C, 4U)</button>
+
+</div>
 
 > #### 🚧🚧🚧 
 > C'est la première version de ce site, alors il y a un plus forte probabilité de la présence 
