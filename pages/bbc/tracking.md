@@ -33,9 +33,16 @@ Ottawa School of Karate-do
 <div class="bbc-content" markdown=1>
 
 <div class='code-compare'>
+
+<div markdown='1'>
+
 <div markdown='1'>
 
 ### Karate Goals Summary (3 mo.)
+
+</div> {% comment %}Fin titre CD{% endcomment %}
+
+<div markdown='1'>
 
 > Updated 2025-10-26
 
@@ -53,10 +60,21 @@ Overall:
 - the areas that received the most training improved the most
 - in order to stay on track for the one-year goal, training effort outside the dojo needs to be put into proper stance mechanics and strength.
 
+</div> {% comment %}Fin contenu CD{% endcomment %}
 </div> {% comment %}Fin côté droit{% endcomment %}
 <div markdown='1'>
 
+<div markdown='1'>
+
 ### Personal Goal Summary (3 mo.)
+
+</div> {% comment %}Fin titre CG{% endcomment %}
+
+<div markdown='1'>
+
+<div markdown='1'>
+
+#### Assessment project 
 
 > Updated 2025-10-26
 
@@ -72,6 +90,12 @@ A coop student has joined the project but is spending most of their time learnin
 In all, remaining time on known Issues is estimated at well over the initial total time expected for the project, not including fixing the website materials based on the preexisting ones. **Total project time should be about 5x the initial estimate!**
 
 That's the danger of projects that require learning significant amounts of new tools. In this case : pair programming with an AI Agent, larger python project architecture, efficient SQL database structure, Google Drive API's and authentication, efficient and secure distribution of configuration data.
+
+#### Meeting correcting deadlines (keeping my word)
+
+> Updated 2025-10-27
+
+I have been on top of this so far, until this past week! My students in the grade 10 science class have chosen a half period of board games this Thursday as my consequence.
 
 <details>
 <summary>Original task list</summary>
@@ -125,6 +149,7 @@ Bonus tasks
 </div>
 </details>
 
+</div> {% comment %}Fin contenu CG{% endcomment %}
 </div> {% comment %}Fin côté gauche{% endcomment %}
 </div> {% comment %}Fin code-compare{% endcomment %}
 
